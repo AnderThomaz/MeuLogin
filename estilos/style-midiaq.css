@@ -17,10 +17,7 @@
         height: 100%;
     }
 
-    #formulario {
-
-    }
-  
+    
   } 
   
   /* Large devices (laptops/desktops, 992px and up) */
@@ -50,7 +47,7 @@
         width: 1000px;
     }
     div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
