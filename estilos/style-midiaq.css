@@ -3,7 +3,7 @@
 
   /* Medium devices (landscape tablets, 768px and up) */
   @media only screen and (min-width: 768px) {
-    body {
+    body, html {
         background-image: linear-gradient(to top, #127373, #5DA6A6);
     }
 
@@ -25,7 +25,7 @@
   
   /* Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
-    body {
+    body, html {
         background-image: linear-gradient(to top, #127373, #5DA6A6);
     }
     
@@ -42,7 +42,7 @@
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px) {
-    body {
+    body, html {
         background-image: linear-gradient(to top, #127373, #5DA6A6);
     }
 
