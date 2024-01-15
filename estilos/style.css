@@ -69,7 +69,7 @@ div#imagem {
 #formulario > p {
     font-size: 0.8em;
     margin-top: 15px ;
-    margin-bottom: 25px ;
+    margin-bottom: 30px ;
     
     
 } 
@@ -79,7 +79,7 @@ div.campo {
     width: 100%;
     height: 40px;
     border-radius: 10px;
-    background-color: #127373;
+    background-image: linear-gradient(90deg, #127373 50%, white);
     margin: 5px 0px ;
 }
 
