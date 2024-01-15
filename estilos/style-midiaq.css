@@ -9,15 +9,16 @@
 
     
     section#login {
+        display: flex;
         width: 70vw;
     }
     div#imagem {
-        float: left;
-        width: 40%;
+        
+        float: top;
+        width: 50%;
         height: 100%;
     }
 
-    
   } 
   
   /* Large devices (laptops/desktops, 992px and up) */
@@ -44,13 +45,14 @@
     }
 
     section#login {
-        width: 1000px;
+        width: 1100px;
     }
     div#imagem {
         float: right;
         width: 50%;
         height: 100%;
     }
+    
 
     
   }
